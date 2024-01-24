@@ -59,4 +59,4 @@ jobs:
           app-name: 'dental-office-virtual-assistant-scheduler'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_43EED6C152B041338DED4F5D440EDD17 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7B5DDD9822C04054BE466229082F80EE }}
